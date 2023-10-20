@@ -2,7 +2,7 @@
 
 Copy of https://hannover.ccc.de/gitlab/Namigator/KtouchBone
 
-# Do you also need a matching KTouch course?
+## Do you also need a matching KTouch course?
 
 Just let [ktgen](https://github.com/BarbieCue/ktgen) generate one for you. For example like this:
 
@@ -13,7 +13,7 @@ docker run --rm barbiecue/ktgen:latest \
 -o > ktgen_course.xml
 ```
 
-# References
+## References
 
 - [Neo Bone](https://www.neo-layout.org/Layouts/bone/)
 - [ktgen - KTouch Course Generator](https://github.com/BarbieCue/ktgen)
