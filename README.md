@@ -1,6 +1,6 @@
 # KTouch keyboard layout "Bone"
 
-Copy of https://hannover.ccc.de/gitlab/Namigator/KtouchBone?lang=de-DE
+Copy of https://hannover.ccc.de/gitlab/Namigator/KtouchBone
 
 # References
 
